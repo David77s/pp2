@@ -3,7 +3,7 @@ znak = input("Podaj znak: ")
 
 for i in range (number):
     for j in range(number):
-        print((znak*number + "\n") * number)
+        print(number,znak)
 
 
 
